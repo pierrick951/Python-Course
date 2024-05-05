@@ -1,0 +1,19 @@
+🐍 Welcome the Snake World🐍
+
+
+- what is Python ? 
+
+Guido van Rossum est le créateur de Python, un langage de programmation très populaire, reconnu pour sa simplicité et sa lisibilité. 
+Il a créé Python dans les années 1980 pour offrir un langage de programmation facile à lire et à apprendre, combinant puissance et simplicité pour favoriser la productivité des développeurs.
+
+Guido van Rossum is the creator of Python, a highly popular programming language known for its simplicity and readability.
+He created Python in the 1980s to provide a programming language that is easy to read and learn, combining power and simplicity to enhance developers' productivity.
+
+--------------------------------------------------------------
+
+install Python 🐍 : https://www.python.org/
+
+IDE for the snake:
+-pyCharm
+-VsCode
+
