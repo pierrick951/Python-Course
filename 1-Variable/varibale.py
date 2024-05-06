@@ -1,22 +1,18 @@
-# crée une varible  qui permet de stocker une données
+# Créer une variable qui permet de stocker une donnée
 
-#exemple
-
-nom = 'marcel'
+# Exemple
+nom = 'Marcel'
 age = 50
 
-print( age,nom) # on ecrit dans la console + age
+print("Nom:", nom)
+print("Age:", age)
 
-
-# on peut aditioner les varible en elle 
-
+# On peut additionner les variables entre elles
 var1 = 1
 var2 = 2 
+var3 = var1 + var2  # Résultat: 3
+print("Résultat de l'addition:", var3)
 
-var3 = var1 + var2  #resulat 3
-
-
-#on peut aussi la multiplier
-
-teste = 'salut'
-print(teste*3) #return salutsalutsalut
+# On peut aussi multiplier les chaînes de caractères
+message = 'Bonjour '
+print(message * 3)  # Résultat: Bonjour Bonjour Bonjour
